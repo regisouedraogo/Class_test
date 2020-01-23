@@ -14,3 +14,23 @@ Working with your classmates, and referencing my slides for today, do the follow
 Note that you can click "Preview changes" to see what the final results are going to look like. 
      
 To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such) into the assignment on blackboard.     
+
+
+''It's better to be a lion for a day than a sheep all your life.''
+Elizabeth Kenny
+https://www.brainyquote.com/quote_of_the_day
+
+| __coursenumber__ | _coursetitle_ | instructor name |
+|:-----------------|:--------------|:----------------|
+|  data 2401      | data science     | K. Shoemaker    |
+| cs 1311  | python | dr someone |
+
+# TERMINAL COMMAND
+
+## the pwd command (print working directory)
+
+example
+>pwd 
+
+informations: 
+pwd stands for Print Working Directory. It prints the path of the working directory, starting from the root.
